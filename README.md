@@ -4,7 +4,9 @@
 
 Lighthouse Pro is an advanced enhancement tool that leverages Gemini AI capabilities to automate optimization, integrate seamlessly with developer workflows, and elevate Lighthouse reports for peak performance and productivity.
 
-## Table of Contents (Optional)
+[![DEMO VIDEO](https://img.youtube.com/vi/POxKSOm0KTc/0.jpg)](https://www.youtube.com/watch?v=POxKSOm0KTc)
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
