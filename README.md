@@ -1,4 +1,4 @@
-# GoogleHackathon24-Lighthouse Pro : Lighthouse Enhanced With the Capabilities of Gemini
+# GoogleHackathon24-Lighthouse-Pro : Lighthouse extended with the power of Gemini
 
 ## Description
 
@@ -15,7 +15,8 @@ Lighthouse Pro is an advanced enhancement tool that leverages Gemini AI capabili
 
 
 ## Prequisites
-You need to have a service-account-key.json file that has the permission to use VertexAI API in the root of the project. You can get it by following the instructions here: https://cloud.google.com/docs/authentication/getting-started
+- You need to have a service-account-key.json file that has the permission to use VertexAI API in the root of the project. You can get it by following the instructions here: https://cloud.google.com/docs/authentication/getting-started
+- You also need to have node.js installed on your machine. You can download it here: https://nodejs.org/en/download/
 
 
 ## Installation
